@@ -20,7 +20,7 @@ KIT 3D à 69€ comprenant 3 moteurs: <https://www.amazon.fr/Professional-printe
 
 ## Alimentation électrique
 
-![Alimentation 12V](/assets/images/composants.png "alimentation")
+![Alimentation 12V](/assets/images/alimentation.png "alimentation")
 
 - Alimentation stabilisée 12V 10A dédiée à 17€: <https://www.amazon.fr/KeeYees-Convertisseur-Commutation-Alimentation-110V-220V/dp/B07GZP31JK/>
 - Alimentation type PC largement disponible.
